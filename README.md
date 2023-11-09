@@ -1,5 +1,5 @@
 # Real-Time Map of FBOs at PFA
-![Dashboard](Dashboard_PFA.png)
+![Dashboard](Dashboad_PFA.png)
 Prepared by: Fatima Azfar
 
 ## Table of Contents
